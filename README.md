@@ -1,2 +1,2 @@
 # game-portal
-HTML&SASS
+Create template with HTML & SASS
